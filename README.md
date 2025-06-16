@@ -58,4 +58,5 @@ http://localhost:3000
 
 ## 📜 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is for learning and practice purposes only. No license applied.
+
