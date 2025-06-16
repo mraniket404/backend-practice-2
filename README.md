@@ -50,10 +50,10 @@ http://localhost:3000
 
 ---
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
 
-**Mr. Aniket Gosavi**
-
+**Mr. Aniket Gosavi**  
+🔗 [GitHub Profile](https://github.com/mraniket404)
 ---
 
 ## 📜 License
